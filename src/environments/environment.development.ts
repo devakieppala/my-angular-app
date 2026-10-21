@@ -3,8 +3,8 @@ export const environment = {
     apiUrl: 'https://localhost:7192',
     appName: 'My Angular App',
     tenantId: 'a08e3176-d24d-43aa-9918-ebb9099146ba',
-    clientId: '9e28a7bc-c335-472f-aad2-32a4b9299e9a',
-    apiScope: 'api://5403278c-2d0c-480e-bf4f-12caac8b161b/access_as_user',
+    clientId: '5d247c1a-7bbb-4c86-8d34-6c945a681a6d',
+    apiScope: 'api://57aff473-24d7-40d3-8ed0-4ac35051d519/access_as_user',
     redirectUri: 'http://localhost:4200',
     authority: 'https://login.microsoftonline.com/'
 };

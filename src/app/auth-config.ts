@@ -12,10 +12,10 @@ import {
 import { environment } from '../environments/environment';
 
 export const tenantId = 'a08e3176-d24d-43aa-9918-ebb9099146ba';
-export const clientId = '9e28a7bc-c335-472f-aad2-32a4b9299e9a';
+export const clientId = '5d247c1a-7bbb-4c86-8d34-6c945a681a6d';
 export const apiBaseUrl = environment.apiUrl;
 export const apiScope =
-  'api://1ceeff02-f3cd-4d2f-a073-e25c5377f934/access_as_user';
+  'api://57aff473-24d7-40d3-8ed0-4ac35051d519/access_as_user';
 
 export function msalInstanceFactory():
   IPublicClientApplication {
